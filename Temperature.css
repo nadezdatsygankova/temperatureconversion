@@ -1,0 +1,36 @@
+
+body
+{
+	background: url(temp.img) ;
+    background-color: transparent;  
+    background-size: cover;		
+    color:rgb(12, 60, 82);
+    font: 1em calibri, arial;
+    text-align: center;
+}
+
+
+
+
+
+.big-continer
+{
+   
+		
+        border: 1px solid rgba(50%, 50%, 50%, 0.5);
+		border-radius: 10px;
+		box-shadow:	6px 6px 30px rgba(55, 55, 55, .6);
+		font-size: 1.5em;
+        margin: 1vh auto;
+        padding: 1vh 5vh 1vh;
+		text-align: center;
+        width: 700px;
+        height: 900px;
+        position: relative;
+        box-shadow: 5px 10px #888888;
+        display: block;
+
+    
+}
+
+
